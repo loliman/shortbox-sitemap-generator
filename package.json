@@ -12,7 +12,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
     "mysql2": "^1.6.5",
-    "sequelize": "^4.44.0",
+    "sequelize": "^4.44.0"
   },
   "author": "",
   "license": "ISC"
