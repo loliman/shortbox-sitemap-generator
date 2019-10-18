@@ -1,7 +1,6 @@
 import Sequelize from 'sequelize';
 const fs = require('fs');
 var stream;
-var builder = require('xmlbuilder');
 
 const sequelize = new Sequelize('shortbox_old', 'root', '', {
     logging: false,
